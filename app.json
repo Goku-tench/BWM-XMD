@@ -1,7 +1,7 @@
 
 {
-  "name":"BWM-XMD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"GOKU-TECH",
+  "description":"Best whatsapp bot developed by Godbless Isdory",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/h2ydge.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -41,7 +41,7 @@
 "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when offline",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "AUTO_BIO":
@@ -78,7 +78,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"GOKU-TECH",
       "required":false
 
     } ,
@@ -109,20 +109,20 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"255613667586",
     "required":true
       
     },
     "OWNER_NAME":
     {
     
-    "desc": "Owner name",
+    "desc": "Godbless",
     "required": false,
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
-      "value":"",
+      "value":"BWM-XMD;;;H4sIAAAAAAAAA5VUSW+rSBj8L32FPLMvliINXrENBhvwktE7NNAsZjU02Djyfx8RJ0oO8zIZTi2gq6ur6qtXkBdxjVaoA8NXUFZxCzHql7grERiCURMEqAIk8CGGYAgMtQ4Tkwq20UkgtvFtzVrLczA+Zxsq2ecaFjKRcuSlhHbFM7iToGzcNPa+Acx9trhMZol0IMyuSpol558vWjmvw2p82yBTqQStaTCUVekZ3HtEGFdxHk7LCGWogukKdSaMq5/RD5c32BoRu1IhSmyNupy0weQ0conRQFF19xoSu2C5sU3hUP+M/jI+JrPFWlwYSoAHFuKhObnt3a0AebNljXM30tRV6aaZojzo13GYI3/hoxzHuPux7rp5TOZpcEum6cuMWbhqxRCGiJ0X1lHFHTYVuxxIV0Kk2R8SH0lXd+RpqowHWy1KDjqznKVU6OS1yw9EdIYXiG7X/nrFV+Jm9ZGV5P/ovhhJrT2hBJTF02tSWs2yHdWHLg4aTlsHK73Qj/PVXmMthvsZfYOZdpYqZ+OLRrDnxBC5QdjEL+0RWh7nWbfiGPDdqt4vbOmTPsRN9R3LgLP5tr0tGqeSY8VTZwdr5p/2ZciHp1barweeTHMyG+2IASFbZ8P11l1A5Df2sr0mE8zB8iA59qJmnMgYyYWhhCshCp/fbpSgbuGDIX0nQYXCuMYVxHGR9+8YWiQB9FsLeRXCb/ICzi+bcpdXjLgQztAtbHEjRtJ4up8POC2E9cHotsa5EhV0eQYkKKvCQ3WNfDWucVF1OqprGKIaDP/+TYIcXfHDuP44liZBEFc1dvKmTAvof7j68RF6XtHk2Opyb9wvUAWG1OdrhHGch3WvY5PDyoviFo0jiGswDGBaozsJfNTGHurxwLzLG+3U8Xb2tHGh749oWOlhTzkq8scvrIdkDrLyEyMj4YkTRP8JsrT3FPiMSIsUw1ICBCSI32em3/NHC2sXivQKwqWM81njqFjgJaaV20X7CNZDe1QhHwxx1SASuNBLmtIuEpR/g0sd2MlpciEUwwxxxOh5YRgSIm5slnzBfXgKhq+fPTUu/B5PMIWpOlFeAAmytwjG/c0ZnhdoVhBEXhKGPP1X/evSCwnL8leOcI/7Lnq/w0cYxmkNhmC8bDVh7m2kF3bfKsejEivKqi+YT5M+0v5IkxuduoPgBnU+5zJ9b9jIqTjb1sb6mllbuiQeXm7TXbdddNN/AwFD0GEoIKcZc91Vpc2taaxn+7UVhlvmPJ+rzrpaNwdb9Uf6jKI3HsVeZmJXTrYav8sCRxnT4up0ptN8vfcdW2DmrtV208nluT/tEZavhw3CzrmxykIkzoK0hAehpAhO3TQbtPUu7mq84SfrdWQb0SZLCymE+05fiMas2hmN0rgbWNhKtj0slRfhVEvuPD3PdSlSHnP41gPpe//GbxPy+h6tIEZvdZbD3qL/Mudryqk7+QXjvSD/VLx77iilRMaKy2uzPM1OCZuuiCnVXU4T/+ScTINmvOvMSyw9Avf7bxKUKcRBUWVgCGDuV0XsAxKksMbK56DacYZqDLMSDGmRFSWeE2mZBFmnlKWFIf6Yb6D0jz6lwP0fOxjePPsHAAA=",
      "required":true
   },
     "WARN_COUNT":
@@ -139,7 +139,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTIDELETE" : {
